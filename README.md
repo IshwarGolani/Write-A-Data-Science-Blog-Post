@@ -15,13 +15,13 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 The code should run with no issues using Python versions 3.*.
 Here are the libraries I used in my Jupyter Notebook:
 
-1.Numpy
-2.Pandas
-3.Sklearn
-4.Seaborn
-5.matplotlib.pyplot
-6.Collections
-7.Math
+1. Numpy
+2. Pandas
+3. Sklearn
+4. Seaborn
+5. matplotlib.pyplot
+6. Collections
+7. Math
 
 ## Project Motivation<a name="motivation"></a>
 
